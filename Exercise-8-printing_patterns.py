@@ -7,3 +7,5 @@
 # 5 5 5 5 5
 
 for number_amount in range(6):
+   for print_pattern in range(number_amount):
+        print(number_amount, end=" ")
